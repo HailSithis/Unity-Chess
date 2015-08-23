@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0931844d067e50a49a2c6f542a5b3423
+timeCreated: 1439254582
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bishopMesh: {fileID: 4300000, guid: 5076500bc1a0ca1469a0c82170a68da0, type: 3}
+  - knightMesh: {fileID: 4300000, guid: 314438c642c9d4845811ff07f4209a2b, type: 3}
+  - queenMesh: {fileID: 4300000, guid: 28ece393286d82c418281e861a2de50e, type: 3}
+  - rookMesh: {fileID: 4300000, guid: 925fb6bd87ad09e49a0e1341a9cff2bf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

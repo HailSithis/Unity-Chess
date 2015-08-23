@@ -1,0 +1,11 @@
+Saves
+Library
+Temp
+bin
+*.csproj
+*.pidb
+*.unityproj
+*.suo
+*.sln
+*.userprefs
+backup

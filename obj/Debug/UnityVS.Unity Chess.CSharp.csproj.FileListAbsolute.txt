@@ -1,0 +1,18 @@
+E:\src\Unity Projects\Unity Chess\obj\Debug\UnityVS.Unity Chess.CSharp.csprojResolveAssemblyReference.cache
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\SharpChess.Model.dll
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+E:\src\Unity Projects\Unity Chess\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\src\Unity Projects\Unity Chess\obj\Debug\Assembly-CSharp.dll
+E:\src\Unity Projects\Unity Chess\obj\Debug\Assembly-CSharp.pdb
